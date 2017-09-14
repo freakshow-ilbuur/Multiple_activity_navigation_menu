@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation_View_Multiple_Activities</string>
+
+    <string name="activity_one_title">First Activity</string>
+    <string name="activity_two_title">Second Activity</string>
+    <string name="activity_three_title">Third Activity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+</resources>
